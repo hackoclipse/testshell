@@ -1,5 +1,5 @@
 {
-    "name": "boox/kwaak",
+    "name": "boox/kwaak2",
     "description": "A short description of what your package does",
     "require": {
         "php": ">=7.4",
